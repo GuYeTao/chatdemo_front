@@ -1,4 +1,4 @@
-这是一个开发了两周不到的项目前端,对应的项目后端在chatdemo_back中.
+这是一个开发了十天左右的项目前端,对应的项目后端在chatdemo_back中.
 
 开发环境为Window10,VSCode.
 
